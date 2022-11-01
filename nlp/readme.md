@@ -1,1 +1,1 @@
-This space displays all my projects done under the umbrella of Natural Language Processing
+This space displays all my projects contributions in the area of Natural Language Processing.
