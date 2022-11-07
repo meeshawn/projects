@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-CIS 511: Introduction to Natural Language Processing
-FALL 2022
-
-Assignment 2, Part-I & II: Viterbi POS Tagger with small & large training dataset
 
 @author: Meeshawn Marathe
 """
