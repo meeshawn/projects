@@ -2,7 +2,7 @@
 
 We consider a variant of the 8-puzzle problem (http://tristanpenman.com/demos/n-puzzle) under a windy condition. The initial state and the goal state are shown as follows: 
 
-**Intial state**	        **Goal state** <br />
+**Intial state**	  &emsp;  &emsp;       **Goal state** <br />
    2 8 3     &emsp;            1 2 3 <br />
    6 7 4      &emsp;          8 - 4 <br />
    1 5 -       &emsp;          7 6 5 <br />
