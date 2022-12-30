@@ -3,9 +3,9 @@
 We consider a variant of the 8-puzzle problem (http://tristanpenman.com/demos/n-puzzle) under a windy condition. The initial state and the goal state are shown as follows: 
 
 **Intial state**	        **Goal state**
-   2 8 3                 1 2 3 //
-   6 7 4                 8 - 4 //
-   1 5 -                 7 6 5 //
+   2 8 3                 1 2 3__
+   6 7 4                 8 - 4__
+   1 5 -                 7 6 5__
 
 
 - We assume that the wind comes from the south. The step cost regarding the agent’s moving a non-blank tile to the neighboring blank tile is defined as follows: 1 for moving northward; 2 for moving westward or eastward; 3 for moving southward.
