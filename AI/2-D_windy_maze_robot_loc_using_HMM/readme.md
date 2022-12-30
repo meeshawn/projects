@@ -3,7 +3,7 @@
 ## Developed an algorithm that solves the problem of robot localization in a 2D maze in a windy situation using Hidden Markov process.
 
 ### The 2-D Maze:
-![image](https://user-images.githubusercontent.com/34864587/210102650-69801437-a988-4312-9607-4939030c2ac8.png = 100x100)
+![image](https://user-images.githubusercontent.com/34864587/210102650-69801437-a988-4312-9607-4939030c2ac8.png =100x100)
 
 ### We assume that the robot aims to locate itself in the windy maze as shown in the above. The robot will perform two kinds of actions, sensing and moving:
 
