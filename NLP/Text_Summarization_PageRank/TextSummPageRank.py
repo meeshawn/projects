@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-CIS-511: Introduction to Natural Language Processing
-FALL 2022
-Term Project
 
 "TEXT SUMMARIZATION USING GRAPH-BASED APPROACH (PAGE-RANK ALGORITHM)"
 
