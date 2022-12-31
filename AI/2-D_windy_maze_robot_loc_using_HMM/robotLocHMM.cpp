@@ -2,7 +2,6 @@
 #include <vector>
 #include <iomanip>
 /* Author: Meeshawn Marathe
- * CIS-579 Artificial Intelligence
  * Windy Maze Robot Localization using HMM
 */
 class RobotLocHMM{
