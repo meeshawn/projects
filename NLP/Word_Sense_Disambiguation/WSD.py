@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-CIS 511 Introduction to Natural Language Processing
-Fall 2022
-
-Assignment 3: Word Sense Disambiguation using Naive Bayes  Classifier
+Word Sense Disambiguation using Naive Bayes  Classifier
 
 @author: Meeshawn Marathe
 """
