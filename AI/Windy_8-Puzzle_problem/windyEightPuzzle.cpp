@@ -1,3 +1,6 @@
+/* Author: Meeshawn Marathe
+   Eight puzzle solver in a windy situation using A-Star Traversal Algorithm
+*/
 #include <iostream>
 #include <vector>
 #include <algorithm>
