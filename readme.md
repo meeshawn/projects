@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @meeshawn
+- 👋 Hi, I’m Meeshawn
 - 👀 I’m interested in the broad spectrum of multimodal AI including Natural Language Processing, Computer Vision, Machine Learning & Deep Learning.
