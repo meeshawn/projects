@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Meeshawn
+- 👋 Hi, I’m Meeshawn, currently pursuing MS in Artificial Intelligence from University of Michigan, USA.
 - 👀 I’m interested in the broad spectrum of multimodal AI including Natural Language Processing, Computer Vision, Machine Learning & Deep Learning.
