@@ -1,11 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-CIS 536 Text Mining and Information Retrieval
+Topic Modeling with Latent Dirichlet AllocationS
 
-Project: Topic Modeling with Latent Dirichlet AllocationS
-
-@author: Meeshawn Marathe (UMID: 4575 4188)
-       : Nithesh Veerappa (UMID: 0188 3074)
+@author: Meeshawn Marathe
 """
 import os
 import re
