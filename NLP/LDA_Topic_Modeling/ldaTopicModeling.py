@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Topic Modeling with Latent Dirichlet AllocationS
+Topic Modeling using Latent Dirichlet Allocation and Gibb's Sampling
 
 @author: Meeshawn Marathe
 """
