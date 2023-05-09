@@ -5,6 +5,6 @@ discover latent semantics between them which is further used to train an MLP to 
 
 2. Model selection was performed using 3-fold cross validation across the following set of hyperparameters:
   - Number of Encoder Blocks $\in [2,3]$
-  - Number of Hidden Units in the 2nd layer of the MLP $\in [16,32]$
+  - Number of Hidden Units in the 2nd layer of the Classification head MLP $\in [16,32]$
 
 3. Results of model selection and the training results of the best model are provided in the .ipynb file.
