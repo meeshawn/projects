@@ -3,4 +3,4 @@
 - Single-Tower Softmax model: (User Tower only) Obtained NDCG ≈ 0.6 and MRR ≈ 0.5.
 - Two-Tower Binary model: (User Tower & Clicked Candidate Tower) Obtained an overall accuracy ≈ 89%
 
-[embed][http://example.com/file.pdf](https://drive.google.com/file/d/1CooD54teRVugTMRGuzCp_jxz0Dy06HvL/view?usp=drive_link)https://drive.google.com/file/d/1CooD54teRVugTMRGuzCp_jxz0Dy06HvL/view?usp=drive_link[/embed]
+[embed]https://github.com/meeshawn/projects/blob/main/RecSys/Comcast_Content_Recommendation/Summer_Internship_2023_Meeshawn_Marathe.pdf[/embed]
