@@ -2,3 +2,5 @@
 - Two-Tower Softmax model: (User Tower & Candidates Tower) Obtained NDCG ≈ 0.7 and MRR ≈ 0.6.
 - Single-Tower Softmax model: (User Tower only) Obtained NDCG ≈ 0.6 and MRR ≈ 0.5.
 - Two-Tower Binary model: (User Tower & Clicked Candidate Tower) Obtained an overall accuracy ≈ 89%
+
+[embed][http://example.com/file.pdf](https://drive.google.com/file/d/1CooD54teRVugTMRGuzCp_jxz0Dy06HvL/view?usp=drive_link)https://drive.google.com/file/d/1CooD54teRVugTMRGuzCp_jxz0Dy06HvL/view?usp=drive_link[/embed]
